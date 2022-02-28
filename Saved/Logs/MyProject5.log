@@ -1845,3 +1845,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.28-07.34.44:034][581]LogPlayLevel: Display: Destroying online subsystem :Context_13
 [2022.02.28-07.37.15:223][716]Cmd: SELECT NONE
 [2022.02.28-07.37.15:564][757]Cmd: SELECT NONE
+[2022.02.28-07.55.53:662][425]LogSlate: Window 'Open Project' being destroyed
+[2022.02.28-07.55.54:484][523]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.28-07.56.07:272][871]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.28-07.56.07:278][871]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.02.28-07.56.07:288][871]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.02.28-07.56.11:083][327]LogContentBrowser: Attempting asset rename: NewBlueprint -> door
+[2022.02.28-07.56.11:099][327]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.02.28-07.56.14:056][668]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.02.28-07.56.14:088][668]LogSavePackage: Moving '../../../../../../Users/sky/Test_proj/Game-Test/MyProject5/Saved/ThirdPersonExampleMap2D03400C4CAA8247B11AAD91130B74DA.tmp' to '../../../../../../Users/sky/Test_proj/Game-Test/MyProject5/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.02.28-07.56.14:157][668]LogSavePackage: Moving '../../../../../../Users/sky/Test_proj/Game-Test/MyProject5/Saved/ThirdPersonExampleMap_BuiltData5BC00670460CC09207A435A05E7958AC.tmp' to '../../../../../../Users/sky/Test_proj/Game-Test/MyProject5/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.02.28-07.56.14:169][668]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.28-07.56.14:169][668]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.02.28-07.56.14:169][668]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.02.28-07.56.17:929][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/door" FILE="../../../../../../Users/sky/Test_proj/Game-Test/MyProject5/Content/ThirdPersonBP/Blueprints/door.uasset" SILENT=true
+[2022.02.28-07.56.17:933][ 80]LogSavePackage: Moving '../../../../../../Users/sky/Test_proj/Game-Test/MyProject5/Saved/door830144CE4E9116C7B930B6AE245B103E.tmp' to '../../../../../../Users/sky/Test_proj/Game-Test/MyProject5/Content/ThirdPersonBP/Blueprints/door.uasset'
+[2022.02.28-07.56.17:944][ 80]AssetCheck: New page: Asset Save: door
+[2022.02.28-07.56.17:944][ 80]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/door.door
